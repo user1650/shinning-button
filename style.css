@@ -24,3 +24,13 @@ body {
     flex-direction: column;
 
 }
+input{
+    border: none;
+    outline: none;
+    border:black solid ;
+    border-radius: 5px;
+    padding: 10px;
+}
+input:valid , input:focus{
+    color: green;
+}
