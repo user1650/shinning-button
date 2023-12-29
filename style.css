@@ -33,4 +33,5 @@ input{
 }
 input:valid , input:focus{
     color: green;
+    border-color: green;
 }
